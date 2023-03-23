@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "porridge"]
+	path = porridge
+	url = https://github.com/cran/porridge
+	shallow = true
+	registered = true
 [submodule "ragt2ridges"]
 	path = ragt2ridges
 	url = https://github.com/wvanwie/ragt2ridges
