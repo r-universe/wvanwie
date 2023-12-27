@@ -5,6 +5,3 @@
 [submodule "porridge"]
 	path = porridge
 	url = https://github.com/cran/porridge
-[submodule "ragt2ridges"]
-	path = ragt2ridges
-	url = https://github.com/wvanwie/ragt2ridges
